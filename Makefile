@@ -1,7 +1,7 @@
-SERVER=localhost
-PORT=8000
-NODE_BIN=`npm bin`
-ERR_MSG="\n`tput bold`The server appears to already be running at: http://$(SERVER):$(PORT)\nTake a look at your other terminal windows?"
+SERVER:=localhost
+PORT:=8000
+NODE_BIN:=$(shell npm bin)
+ERR_MSG:="\n`tput bold`The server appears to already be running at: http://$(SERVER):$(PORT)\nTake a look at your other terminal windows?"
 
 $(NODE_BIN)/http-server:
 	npm install http-server
