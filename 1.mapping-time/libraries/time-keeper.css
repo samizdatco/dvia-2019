@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background:#e0e0d9;
+}
+
+main {
+  display: flex;
+  flex-wrap:wrap;
+}
+
+main.single{
+  height:100%;
+  justify-content:center;
+  align-items:center;
+}
+
+nav{
+  position:fixed;
+  top:14px;
+  left:14px;
+  opacity:0;
+  transition:opacity .666s;
+  background:rgba(255,255,255,.6);
+  padding:12px;
+  font-size:13px;
+  font-family:sans-serif;
+  border-radius:4px;
+}
+
+nav select{
+  margin-right:14px;
+}
+nav input{
+  vertical-align:bottom;
+  width:100px;
+}
+
+nav span:before{ content:"("; }
+nav span:after{ content:")"; }
+
+nav.active{
+  opacity:1;
+}
+
+.cell{
+  margin:10px;
+}
+
+.cell .timestamp{
+  font:14px monospace;
+  text-align:center;
+  display:none;
+}
+
+.sketch{
+  pointer-events:none;
+  border:0;
+}
