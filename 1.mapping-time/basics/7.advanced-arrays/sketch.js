@@ -16,7 +16,7 @@ function setup() {
   var top = 0
   var bot = height/3
 
-  var spacing = 3 // we'll draw vertical lines this many pixels apart from one another
+  var spacing = 8 // we'll draw vertical lines this many pixels apart from one another
   strokeWeight(1) // try setting this equal to `spacing` to remove the space between lines
   background(0);
 
