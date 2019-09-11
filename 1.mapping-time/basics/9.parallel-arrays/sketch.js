@@ -7,6 +7,9 @@ var cities = ["Moscow", "Los Angeles", "Seoul"];
 // a boolean array (true or false)
 var winUSA = [false, true, false];
 
+// another array of numbers
+var medalsUSA = [0, 174, 94]
+
 // starting position for the drawing
 var xPos = 50;
 var yPos = 50;

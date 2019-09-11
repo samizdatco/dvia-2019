@@ -2,9 +2,9 @@
 
 // after defining a custom function, we can call it by name from within *other* functions
 function drawCross(aX, aY){
-  stroke(0, 0, 0);
-  line(aX-10, aY, aX+10, aY);
-  line(aX, aY-10, aX, aY+10);
+  stroke(255);
+  line(aX-50, aY, aX+50, aY);
+  line(aX, aY-50, aX, aY+50);
 }
 
 // regular setup function
@@ -15,7 +15,7 @@ function setup(){
 
 // regular draw function
 function draw(){
-  background(255, 255, 255);
+  background(0);
 
   // mouseX & mouseY are automatic variables that give the current mouse position,
   // let's pass them to our custom function

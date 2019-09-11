@@ -40,6 +40,7 @@ function setup() {
   text("Year", xPos, yPos);
   text("City", xPos+150, yPos);
   text("USA #1?", xPos+300, yPos);
+  text("USA Medals", xPos+450, yPos);
 
   // set the text style back to normal
   textStyle(NORMAL);

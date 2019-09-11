@@ -28,38 +28,43 @@ var y;
 var num = 14;
 
 function setup() {
-  createCanvas(575, 360);
-  background('dimgrey');
+  createCanvas(600, 600);
+  background(0);
   noStroke();
 
-  // Draw white bars
-  fill('white');
-  y = 60;
-  for(var i=0; i<num/3; i++) {
-    rect(50, y, 475, 10);
-    y += 20; // shorthand for: "y = y + 20"
+  var spacing = 60
+  var radius = 30
+
+  push()
+
+  translate(100, 50)
+  fill('red')
+  circle(0, 0, radius)
+  circle(0, spacing, radius)
+  circle(0, 2*spacing, radius)
+  circle(0, 3*spacing, radius)
+  circle(0, 4*spacing, radius)
+  circle(0, 5*spacing, radius)
+
+  translate(200, 0)
+  fill('orange')
+  for (var i=0; i<6; i++){
+    circle(0, i*spacing, radius)
   }
 
-  // Orange bars (leftward)
-  fill('goldenrod');
-  y = 40;
-  for(var i=0; i<num; i++) {
-    rect(405, y, 30, 10);
-    y += 20;
+  translate(200, 0)
+  fill('yellow')
+  for (var y=0; y<6*spacing; y+=spacing){
+   circle(0, y, radius)
   }
 
-  // Orange bars (rightward)
-  y = 50;
-  for(var i=0; i<num; i++) {
-    rect(425, y, 30, 10);
-    y += 20;
-  }
+  pop()
 
-  // Thin lines
-  fill('black');
-  y = 45;
-  for(var i=0; i<num-1; i++) {
-    rect(120, y, 280, 1);
-    y += 20;
-  }
+  translate(100, 400)
+  var xPositions = [0, 5, 10, 20, 40, 80, 160, 320, 640]
+  xPositions.forEach(function(x, i){
+    stroke(255 - 30*i)
+    line(x, 0, x, 150)
+  })
+
 }

@@ -7,41 +7,43 @@ function setup() {
   stroke(150);
   strokeWeight(4);
 
-  // change these variables to see how the composition is affected
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  // define three variables to determine how & where our lines will be drawn
   var x = 90;
   var y = 120;
   var w = 180;
+  print(`left side: x:${x} y:${y} w:${w}`)
 
-
-  // -- draw the first batch of four lines ----------------------------------------------
-
-  // line(x1, y1, x2, y2) connects (x1,y1) to (x2,y2)
+  // draw the leftmost group of four lines
   line(x, y, x+w, y);
   line(x, y+10, x+w, y+10);
   line(x, y+20, x+w, y+20);
   line(x, y+30, x+w, y+30);
 
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-  // -- draw the middle batch of lines --------------------------------------------------
-
-  // the values in the variables are changed...
+  // Change the values in the variables
   x = x + w;
   y = height - y;
+  print(`middle: x:${x} y:${y} w:${w}`)
 
-  // ...but the line drawing code is identical to the previous batch
+  // draw the middle batch of lines
+  // (note that the line drawing code is identical to the previous batch)
   line(x, y, x+w, y);
   line(x, y+10, x+w, y+10);
   line(x, y+20, x+w, y+20);
   line(x, y+30, x+w, y+30);
 
-
-  // -- draw the rightmost batch of lines -----------------------------------------------
+  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
   // Change the variables again in the exact same way (but to different effect)
   x = x + w;
   y = height - y;
+  print(`right side: x:${x} y:${y} w:${w}`)
 
-  // once again use the same drawing code but with different values in the variables
+  // draw the rightmost batch of lines
+  // (once again use the same drawing code but with different values in the variables)
   line(x, y, x+w, y);
   line(x, y+10, x+w, y+10);
   line(x, y+20, x+w, y+20);
