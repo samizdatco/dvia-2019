@@ -9,9 +9,9 @@
 / *[src](https://github.com/amandersonyou/dvia-2019/tree/master/1.mapping-time)*  
 [Marisa Asari](https://dvia.samizdat.co/2019/work/marisaruizasari/1.mapping-time)
 / *[src](https://github.com/marisaruizasari/dvia-2019/tree/master/1.mapping-time)*  
-[Xingyang Cai](https://dvia.samizdat.co/2019/work/1.mapping-time)
+[Xingyang Cai](https://dvia.samizdat.co/2019/work/caixingyang1228/1.mapping-time)
 / *[src](https://github.com/caixingyang1228/dvia-2019/tree/master/1.mapping-time)*  
-[Xingwei Huang](https://github.com/Xingwei726/1.mapping-time)
+[Xingwei Huang](https://dvia.samizdat.co/2019/work/Xingwei726/1.mapping-time)
 / *[src](https://github.com/Xingwei726/dvia-2019/tree/master/1.mapping-time)*  
 [Yujun Jiang](https://dvia.samizdat.co/2019/work/yujunmjiang/1.mapping-time)
 / *[src](https://github.com/yujunmjiang/dvia-2019/tree/master/1.mapping-time)*  
