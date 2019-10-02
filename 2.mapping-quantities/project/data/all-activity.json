@@ -1,0 +1,4323 @@
+{
+  "countries": [
+    "United States", 
+    "Russia", 
+    "United Kingdom", 
+    "France", 
+    "China", 
+    "India", 
+    "Pakistan", 
+    "North Korea"
+  ], 
+  "first": 1945, 
+  "last": 2017, 
+  "years": [
+    {
+      "year": 1945, 
+      "totals": {
+        "underground": 0, 
+        "tests": 1, 
+        "atmosphere": 1, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1946, 
+      "totals": {
+        "underground": 0, 
+        "tests": 2, 
+        "atmosphere": 2, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 2, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1947, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1948, 
+      "totals": {
+        "underground": 0, 
+        "tests": 3, 
+        "atmosphere": 3, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 3, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1949, 
+      "totals": {
+        "underground": 0, 
+        "tests": 1, 
+        "atmosphere": 1, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1950, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1951, 
+      "totals": {
+        "underground": 1, 
+        "tests": 18, 
+        "atmosphere": 17, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 1, 
+          "tests": 16, 
+          "atmosphere": 15, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 2, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1952, 
+      "totals": {
+        "underground": 0, 
+        "tests": 11, 
+        "atmosphere": 11, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 10, 
+          "atmosphere": 10, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1953, 
+      "totals": {
+        "underground": 0, 
+        "tests": 18, 
+        "atmosphere": 18, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 2, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 11, 
+          "atmosphere": 11, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 5, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1954, 
+      "totals": {
+        "underground": 0, 
+        "tests": 16, 
+        "atmosphere": 16, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 6, 
+          "atmosphere": 6, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 10, 
+          "atmosphere": 10, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1955, 
+      "totals": {
+        "underground": 1, 
+        "tests": 24, 
+        "atmosphere": 23, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 1, 
+          "tests": 18, 
+          "atmosphere": 17, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 6, 
+          "atmosphere": 6, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1956, 
+      "totals": {
+        "underground": 0, 
+        "tests": 33, 
+        "atmosphere": 33, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 6, 
+          "atmosphere": 6, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 18, 
+          "atmosphere": 18, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 9, 
+          "atmosphere": 9, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1957, 
+      "totals": {
+        "underground": 5, 
+        "tests": 55, 
+        "atmosphere": 50, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 7, 
+          "atmosphere": 7, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 5, 
+          "tests": 32, 
+          "atmosphere": 27, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 16, 
+          "atmosphere": 16, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1958, 
+      "totals": {
+        "underground": 15, 
+        "tests": 118, 
+        "atmosphere": 101, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 5, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 15, 
+          "tests": 77, 
+          "atmosphere": 62, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 36, 
+          "atmosphere": 34, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1959, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1960, 
+      "totals": {
+        "underground": 0, 
+        "tests": 68, 
+        "atmosphere": 3, 
+        "lab": 65
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 4, 
+          "atmosphere": 0, 
+          "lab": 4
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 3, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 49, 
+          "atmosphere": 0, 
+          "lab": 49
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 12, 
+          "atmosphere": 0, 
+          "lab": 12
+        }
+      }
+    }, 
+    {
+      "year": 1961, 
+      "totals": {
+        "underground": 12, 
+        "tests": 91, 
+        "atmosphere": 59, 
+        "lab": 20
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 6, 
+          "atmosphere": 0, 
+          "lab": 6
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 1, 
+          "tests": 2, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 10, 
+          "tests": 11, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 1, 
+          "tests": 72, 
+          "atmosphere": 58, 
+          "lab": 13
+        }
+      }
+    }, 
+    {
+      "year": 1962, 
+      "totals": {
+        "underground": 61, 
+        "tests": 178, 
+        "atmosphere": 117, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 57, 
+          "tests": 96, 
+          "atmosphere": 39, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 1, 
+          "tests": 79, 
+          "atmosphere": 78, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1963, 
+      "totals": {
+        "underground": 46, 
+        "tests": 67, 
+        "atmosphere": 4, 
+        "lab": 17
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 4, 
+          "atmosphere": 0, 
+          "lab": 4
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 3, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 43, 
+          "tests": 47, 
+          "atmosphere": 4, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 13, 
+          "atmosphere": 0, 
+          "lab": 13
+        }
+      }
+    }, 
+    {
+      "year": 1964, 
+      "totals": {
+        "underground": 59, 
+        "tests": 60, 
+        "atmosphere": 1, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 3, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 45, 
+          "tests": 45, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 9, 
+          "tests": 9, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1965, 
+      "totals": {
+        "underground": 57, 
+        "tests": 61, 
+        "atmosphere": 1, 
+        "lab": 3
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 4, 
+          "tests": 4, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 38, 
+          "tests": 38, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 14, 
+          "tests": 17, 
+          "atmosphere": 0, 
+          "lab": 3
+        }
+      }
+    }, 
+    {
+      "year": 1966, 
+      "totals": {
+        "underground": 67, 
+        "tests": 76, 
+        "atmosphere": 9, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 1, 
+          "tests": 7, 
+          "atmosphere": 6, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 48, 
+          "tests": 48, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 3, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 18, 
+          "tests": 18, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1967, 
+      "totals": {
+        "underground": 59, 
+        "tests": 69, 
+        "atmosphere": 5, 
+        "lab": 5
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 3, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 42, 
+          "tests": 42, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 2, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 17, 
+          "tests": 22, 
+          "atmosphere": 0, 
+          "lab": 5
+        }
+      }
+    }, 
+    {
+      "year": 1968, 
+      "totals": {
+        "underground": 73, 
+        "tests": 80, 
+        "atmosphere": 6, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 5, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 56, 
+          "tests": 56, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 17, 
+          "tests": 18, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1969, 
+      "totals": {
+        "underground": 66, 
+        "tests": 72, 
+        "atmosphere": 1, 
+        "lab": 5
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 46, 
+          "tests": 46, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 2, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 19, 
+          "tests": 24, 
+          "atmosphere": 0, 
+          "lab": 5
+        }
+      }
+    }, 
+    {
+      "year": 1970, 
+      "totals": {
+        "underground": 55, 
+        "tests": 68, 
+        "atmosphere": 9, 
+        "lab": 4
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 8, 
+          "atmosphere": 8, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 39, 
+          "tests": 39, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 16, 
+          "tests": 20, 
+          "atmosphere": 0, 
+          "lab": 4
+        }
+      }
+    }, 
+    {
+      "year": 1971, 
+      "totals": {
+        "underground": 47, 
+        "tests": 54, 
+        "atmosphere": 6, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 5, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 24, 
+          "tests": 24, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 23, 
+          "tests": 24, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1972, 
+      "totals": {
+        "underground": 51, 
+        "tests": 58, 
+        "atmosphere": 6, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 4, 
+          "atmosphere": 4, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 27, 
+          "tests": 27, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 2, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 24, 
+          "tests": 25, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1973, 
+      "totals": {
+        "underground": 41, 
+        "tests": 50, 
+        "atmosphere": 7, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 6, 
+          "atmosphere": 6, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 24, 
+          "tests": 24, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 17, 
+          "tests": 19, 
+          "atmosphere": 0, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1974, 
+      "totals": {
+        "underground": 45, 
+        "tests": 56, 
+        "atmosphere": 10, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 9, 
+          "atmosphere": 9, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 22, 
+          "tests": 22, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 21, 
+          "tests": 22, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1975, 
+      "totals": {
+        "underground": 44, 
+        "tests": 46, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 22, 
+          "tests": 22, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 19, 
+          "tests": 21, 
+          "atmosphere": 0, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1976, 
+      "totals": {
+        "underground": 48, 
+        "tests": 51, 
+        "atmosphere": 3, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 5, 
+          "tests": 5, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 20, 
+          "tests": 20, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 4, 
+          "atmosphere": 3, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 21, 
+          "tests": 21, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1977, 
+      "totals": {
+        "underground": 53, 
+        "tests": 58, 
+        "atmosphere": 1, 
+        "lab": 4
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 9, 
+          "tests": 9, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 20, 
+          "tests": 20, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 24, 
+          "tests": 28, 
+          "atmosphere": 0, 
+          "lab": 4
+        }
+      }
+    }, 
+    {
+      "year": 1978, 
+      "totals": {
+        "underground": 64, 
+        "tests": 66, 
+        "atmosphere": 2, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 11, 
+          "tests": 11, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 19, 
+          "tests": 19, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 3, 
+          "atmosphere": 2, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 31, 
+          "tests": 31, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1979, 
+      "totals": {
+        "underground": 57, 
+        "tests": 59, 
+        "atmosphere": 1, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 10, 
+          "tests": 10, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 15, 
+          "tests": 15, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 31, 
+          "tests": 32, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1980, 
+      "totals": {
+        "underground": 53, 
+        "tests": 55, 
+        "atmosphere": 1, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 3, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 12, 
+          "tests": 12, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 14, 
+          "tests": 14, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 1, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 24, 
+          "tests": 25, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1981, 
+      "totals": {
+        "underground": 50, 
+        "tests": 52, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 12, 
+          "tests": 12, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 16, 
+          "tests": 16, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 21, 
+          "tests": 23, 
+          "atmosphere": 0, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1982, 
+      "totals": {
+        "underground": 49, 
+        "tests": 49, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 10, 
+          "tests": 10, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 18, 
+          "tests": 18, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 19, 
+          "tests": 19, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1983, 
+      "totals": {
+        "underground": 55, 
+        "tests": 59, 
+        "atmosphere": 0, 
+        "lab": 4
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 9, 
+          "tests": 9, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 18, 
+          "tests": 18, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 25, 
+          "tests": 29, 
+          "atmosphere": 0, 
+          "lab": 4
+        }
+      }
+    }, 
+    {
+      "year": 1984, 
+      "totals": {
+        "underground": 57, 
+        "tests": 59, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 18, 
+          "tests": 18, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 27, 
+          "tests": 29, 
+          "atmosphere": 0, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1985, 
+      "totals": {
+        "underground": 36, 
+        "tests": 36, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 17, 
+          "tests": 17, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 10, 
+          "tests": 10, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1986, 
+      "totals": {
+        "underground": 23, 
+        "tests": 23, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 14, 
+          "tests": 14, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1987, 
+      "totals": {
+        "underground": 47, 
+        "tests": 51, 
+        "atmosphere": 0, 
+        "lab": 4
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 14, 
+          "tests": 14, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 23, 
+          "tests": 27, 
+          "atmosphere": 0, 
+          "lab": 4
+        }
+      }
+    }, 
+    {
+      "year": 1988, 
+      "totals": {
+        "underground": 40, 
+        "tests": 40, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 15, 
+          "tests": 15, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 16, 
+          "tests": 16, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1989, 
+      "totals": {
+        "underground": 28, 
+        "tests": 30, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 9, 
+          "tests": 9, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 11, 
+          "tests": 11, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 7, 
+          "tests": 9, 
+          "atmosphere": 0, 
+          "lab": 2
+        }
+      }
+    }, 
+    {
+      "year": 1990, 
+      "totals": {
+        "underground": 18, 
+        "tests": 18, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 6, 
+          "tests": 6, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 8, 
+          "tests": 8, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1991, 
+      "totals": {
+        "underground": 14, 
+        "tests": 14, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 6, 
+          "tests": 6, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 7, 
+          "tests": 7, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1992, 
+      "totals": {
+        "underground": 8, 
+        "tests": 8, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 6, 
+          "tests": 6, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1993, 
+      "totals": {
+        "underground": 1, 
+        "tests": 2, 
+        "atmosphere": 0, 
+        "lab": 1
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 1, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1994, 
+      "totals": {
+        "underground": 2, 
+        "tests": 2, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1995, 
+      "totals": {
+        "underground": 7, 
+        "tests": 9, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 5, 
+          "tests": 5, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 1
+        }
+      }
+    }, 
+    {
+      "year": 1996, 
+      "totals": {
+        "underground": 3, 
+        "tests": 3, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1997, 
+      "totals": {
+        "underground": 0, 
+        "tests": 2, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 2
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 1998, 
+      "totals": {
+        "underground": 4, 
+        "tests": 12, 
+        "atmosphere": 0, 
+        "lab": 8
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 3
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 0, 
+          "lab": 5
+        }
+      }
+    }, 
+    {
+      "year": 1999, 
+      "totals": {
+        "underground": 0, 
+        "tests": 11, 
+        "atmosphere": 0, 
+        "lab": 11
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 3
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 7, 
+          "atmosphere": 0, 
+          "lab": 7
+        }
+      }
+    }, 
+    {
+      "year": 2000, 
+      "totals": {
+        "underground": 0, 
+        "tests": 10, 
+        "atmosphere": 0, 
+        "lab": 10
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 0, 
+          "lab": 5
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 5, 
+          "atmosphere": 0, 
+          "lab": 5
+        }
+      }
+    }, 
+    {
+      "year": 2001, 
+      "totals": {
+        "underground": 0, 
+        "tests": 6, 
+        "atmosphere": 0, 
+        "lab": 6
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 2
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 4, 
+          "atmosphere": 0, 
+          "lab": 4
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2002, 
+      "totals": {
+        "underground": 0, 
+        "tests": 4, 
+        "atmosphere": 0, 
+        "lab": 4
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 3, 
+          "atmosphere": 0, 
+          "lab": 3
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2003, 
+      "totals": {
+        "underground": 0, 
+        "tests": 2, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 2
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2004, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2005, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2006, 
+      "totals": {
+        "underground": 1, 
+        "tests": 3, 
+        "atmosphere": 0, 
+        "lab": 2
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "North Korea": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 1
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2007, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2008, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2009, 
+      "totals": {
+        "underground": 1, 
+        "tests": 1, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2010, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2011, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2012, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2013, 
+      "totals": {
+        "underground": 1, 
+        "tests": 1, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2014, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2015, 
+      "totals": {
+        "underground": 0, 
+        "tests": 0, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2016, 
+      "totals": {
+        "underground": 2, 
+        "tests": 2, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 2, 
+          "tests": 2, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }, 
+    {
+      "year": 2017, 
+      "totals": {
+        "underground": 1, 
+        "tests": 1, 
+        "atmosphere": 0, 
+        "lab": 0
+      }, 
+      "details": {
+        "United Kingdom": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "North Korea": {
+          "underground": 1, 
+          "tests": 1, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Pakistan": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "India": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "France": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "United States": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "China": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }, 
+        "Russia": {
+          "underground": 0, 
+          "tests": 0, 
+          "atmosphere": 0, 
+          "lab": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+year,country,location,tests
+1945,United States,atmosphere,1
+1946,United States,atmosphere,2
+1948,United States,atmosphere,3
+1949,Russia,atmosphere,1
+1951,Russia,atmosphere,2
+1951,United States,atmosphere,15
+1951,United States,underground,1
+1952,United Kingdom,atmosphere,1
+1952,United States,atmosphere,10
+1953,Russia,atmosphere,5
+1953,United Kingdom,atmosphere,2
+1953,United States,atmosphere,11
+1954,Russia,atmosphere,10
+1954,United States,atmosphere,6
+1955,Russia,atmosphere,6
+1955,United States,atmosphere,17
+1955,United States,underground,1
+1956,Russia,atmosphere,9
+1956,United Kingdom,atmosphere,6
+1956,United States,atmosphere,18
+1957,Russia,atmosphere,16
+1957,United Kingdom,atmosphere,7
+1957,United States,atmosphere,27
+1957,United States,underground,5
+1958,Russia,atmosphere,34
+1958,Russia,lab,2
+1958,United Kingdom,atmosphere,5
+1958,United States,atmosphere,62
+1958,United States,underground,15
+1960,France,atmosphere,3
+1960,Russia,lab,12
+1960,United Kingdom,lab,4
+1960,United States,lab,49
+1961,France,atmosphere,1
+1961,France,underground,1
+1961,Russia,atmosphere,58
+1961,Russia,lab,13
+1961,Russia,underground,1
+1961,United Kingdom,lab,6
+1961,United States,lab,1
+1961,United States,underground,10
+1962,France,underground,1
+1962,Russia,atmosphere,78
+1962,Russia,underground,1
+1962,United Kingdom,underground,2
+1962,United States,atmosphere,39
+1962,United States,underground,57
+1963,France,underground,3
+1963,Russia,lab,13
+1963,United Kingdom,lab,4
+1963,United States,atmosphere,4
+1963,United States,underground,43
+1964,China,atmosphere,1
+1964,France,underground,3
+1964,Russia,underground,9
+1964,United Kingdom,underground,2
+1964,United States,underground,45
+1965,China,atmosphere,1
+1965,France,underground,4
+1965,Russia,lab,3
+1965,Russia,underground,14
+1965,United Kingdom,underground,1
+1965,United States,underground,38
+1966,China,atmosphere,3
+1966,France,atmosphere,6
+1966,France,underground,1
+1966,Russia,underground,18
+1966,United States,underground,48
+1967,China,atmosphere,2
+1967,France,atmosphere,3
+1967,Russia,lab,5
+1967,Russia,underground,17
+1967,United States,underground,42
+1968,China,atmosphere,1
+1968,France,atmosphere,5
+1968,Russia,lab,1
+1968,Russia,underground,17
+1968,United States,underground,56
+1969,China,atmosphere,1
+1969,China,underground,1
+1969,Russia,lab,5
+1969,Russia,underground,19
+1969,United States,underground,46
+1970,China,atmosphere,1
+1970,France,atmosphere,8
+1970,Russia,lab,4
+1970,Russia,underground,16
+1970,United States,underground,39
+1971,China,atmosphere,1
+1971,France,atmosphere,5
+1971,Russia,lab,1
+1971,Russia,underground,23
+1971,United States,underground,24
+1972,China,atmosphere,2
+1972,France,atmosphere,4
+1972,Russia,lab,1
+1972,Russia,underground,24
+1972,United States,underground,27
+1973,China,atmosphere,1
+1973,France,atmosphere,6
+1973,Russia,lab,2
+1973,Russia,underground,17
+1973,United States,underground,24
+1974,China,atmosphere,1
+1974,France,atmosphere,9
+1974,India,underground,1
+1974,Russia,lab,1
+1974,Russia,underground,21
+1974,United Kingdom,underground,1
+1974,United States,underground,22
+1975,China,underground,1
+1975,France,underground,2
+1975,Russia,lab,2
+1975,Russia,underground,19
+1975,United States,underground,22
+1976,China,atmosphere,3
+1976,China,underground,1
+1976,France,underground,5
+1976,Russia,underground,21
+1976,United Kingdom,underground,1
+1976,United States,underground,20
+1977,China,atmosphere,1
+1977,France,underground,9
+1977,Russia,lab,4
+1977,Russia,underground,24
+1977,United States,underground,20
+1978,China,atmosphere,2
+1978,China,underground,1
+1978,France,underground,11
+1978,Russia,underground,31
+1978,United Kingdom,underground,2
+1978,United States,underground,19
+1979,China,atmosphere,1
+1979,France,underground,10
+1979,Russia,lab,1
+1979,Russia,underground,31
+1979,United Kingdom,underground,1
+1979,United States,underground,15
+1980,China,atmosphere,1
+1980,France,underground,12
+1980,Russia,lab,1
+1980,Russia,underground,24
+1980,United Kingdom,underground,3
+1980,United States,underground,14
+1981,France,underground,12
+1981,Russia,lab,2
+1981,Russia,underground,21
+1981,United Kingdom,underground,1
+1981,United States,underground,16
+1982,China,underground,1
+1982,France,underground,10
+1982,Russia,underground,19
+1982,United Kingdom,underground,1
+1982,United States,underground,18
+1983,China,underground,2
+1983,France,underground,9
+1983,Russia,lab,4
+1983,Russia,underground,25
+1983,United Kingdom,underground,1
+1983,United States,underground,18
+1984,China,underground,2
+1984,France,underground,8
+1984,Russia,lab,2
+1984,Russia,underground,27
+1984,United Kingdom,underground,2
+1984,United States,underground,18
+1985,France,underground,8
+1985,Russia,underground,10
+1985,United Kingdom,underground,1
+1985,United States,underground,17
+1986,France,underground,8
+1986,United Kingdom,underground,1
+1986,United States,underground,14
+1987,China,underground,1
+1987,France,underground,8
+1987,Russia,lab,4
+1987,Russia,underground,23
+1987,United Kingdom,underground,1
+1987,United States,underground,14
+1988,China,underground,1
+1988,France,underground,8
+1988,Russia,underground,16
+1988,United States,underground,15
+1989,France,underground,9
+1989,Russia,lab,2
+1989,Russia,underground,7
+1989,United Kingdom,underground,1
+1989,United States,underground,11
+1990,China,underground,2
+1990,France,underground,6
+1990,Russia,underground,1
+1990,United Kingdom,underground,1
+1990,United States,underground,8
+1991,France,underground,6
+1991,United Kingdom,underground,1
+1991,United States,underground,7
+1992,China,underground,2
+1992,United States,underground,6
+1993,China,lab,1
+1993,China,underground,1
+1994,China,underground,2
+1995,China,lab,1
+1995,China,underground,2
+1995,France,underground,5
+1995,Russia,lab,1
+1996,China,underground,2
+1996,France,underground,1
+1997,United States,lab,2
+1998,India,underground,2
+1998,Pakistan,underground,2
+1998,Russia,lab,5
+1998,United States,lab,3
+1999,China,lab,1
+1999,Russia,lab,7
+1999,United States,lab,3
+2000,Russia,lab,5
+2000,United States,lab,5
+2001,China,lab,4
+2001,United States,lab,2
+2002,United Kingdom,lab,1
+2002,United States,lab,3
+2003,United States,lab,2
+2006,North Korea,underground,1
+2006,United Kingdom,lab,1
+2006,United States,lab,1
+2009,North Korea,underground,1
+2013,North Korea,underground,1
+2016,North Korea,underground,2
+2017,North Korea,underground,1
