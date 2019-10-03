@@ -1,4 +1,4 @@
-# Mapping Time
+# Exercise 1: Mapping Time
 
 ### Preliminaries
 
