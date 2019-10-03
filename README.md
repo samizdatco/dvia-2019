@@ -9,14 +9,10 @@
 / *[src](https://github.com/amandersonyou/dvia-2019/tree/master/1.mapping-time)*  
 [Marisa Asari](https://dvia.samizdat.co/2019/work/marisaruizasari/1.mapping-time)
 / *[src](https://github.com/marisaruizasari/dvia-2019/tree/master/1.mapping-time)*  
-[Xingyang Cai](https://dvia.samizdat.co/2019/work/caixingyang1228/1.mapping-time)
-/ *[src](https://github.com/caixingyang1228/dvia-2019/tree/master/1.mapping-time)*  
 [Xingwei Huang](https://dvia.samizdat.co/2019/work/Xingwei726/1.mapping-time)
 / *[src](https://github.com/Xingwei726/dvia-2019/tree/master/1.mapping-time)*  
 [Yujun Jiang](https://dvia.samizdat.co/2019/work/yujunmjiang/1.mapping-time)
 / *[src](https://github.com/yujunmjiang/dvia-2019/tree/master/1.mapping-time)*  
-[Zhibang Jiang](https://dvia.samizdat.co/2019/work/christhchild28/1.mapping-time)
-/ *[src](https://github.com/christhchild28/dvia-2019/tree/master/1.mapping-time)*  
 [Qinglu Lu](https://dvia.samizdat.co/2019/work/tongtongluu/1.mapping-time)
 / *[src](https://github.com/tongtongluu/dvia-2019/tree/master/1.mapping-time)*  
 [Yiran Ni](https://dvia.samizdat.co/2019/work/yiranni/1.mapping-time)
@@ -34,12 +30,16 @@
 
 ### Evening Section
 
+[Xingyang Cai](https://dvia.samizdat.co/2019/work/caixingyang1228/1.mapping-time)
+/ *[src](https://github.com/caixingyang1228/dvia-2019/tree/master/1.mapping-time)*  
 [Robin Coenen](https://dvia.samizdat.co/2019/work/robincoenen/1.mapping-time)
 / *[src](https://github.com/robincoenen/dvia-2019/tree/master/1.mapping-time)*  
 [Michael Desai](https://dvia.samizdat.co/2019/work/mi-desai/1.mapping-time)
 / *[src](https://github.com/mi-desai/dvia-2019/tree/master/1.mapping-time)*  
 [Antonie Dreyer](https://dvia.samizdat.co/2019/work/acdreyer/1.mapping-time)
 / *[src](https://github.com/acdreyer/dvia-2019/tree/master/1.mapping-time)*  
+[Zhibang Jiang](https://dvia.samizdat.co/2019/work/gitacoco/1.mapping-time)
+/ *[src](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time)*  
 [Lee Kuczewski](https://dvia.samizdat.co/2019/work/leeallennyc/1.mapping-time)
 / *[src](https://github.com/leeallennyc/dvia-2019/tree/master/1.mapping-time)*  
 [Inhye Lee](https://dvia.samizdat.co/2019/work/InhyeLee-Data1.mapping-time)
