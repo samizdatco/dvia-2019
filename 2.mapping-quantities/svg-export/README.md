@@ -96,5 +96,5 @@ Keep in mind that the only difference between `setup()` and `draw()` is the orde
 1. a `preload()` function in which you fetch your data, and
 2. a `setup()` function that fully draws your diagram and ends by calling `save()` to download the result.
 
-The one possible use case for combining `draw()` with SVG output is if you were interested in producing a physical ‘flipbook’ animation. For this it’s quite handy to be able to download a new SVG for each frame and then stitch the different files together in InDesign. If you pursue this, be sure to call the [`noLoop()`](https://p5js.org/reference/#/p5/noLoop) function at some point (possibly upon having reached a predefined [frameCount](`https://p5js.org/reference/#/p5/frameCount`)) so you don’t get caught in an unending series of downloads.
+The one possible use case for combining `draw()` with SVG output is if you were interested in producing a physical ‘flipbook’ animation. For this it’s quite handy to be able to download a new SVG for each frame and then stitch the different files together in InDesign. If you pursue this, be sure to call the [`noLoop()`](https://p5js.org/reference/#/p5/noLoop) function at some point (possibly upon having reached a predefined [`frameCount`](https://p5js.org/reference/#/p5/frameCount)) so you don’t get caught in an unending series of downloads.
 
