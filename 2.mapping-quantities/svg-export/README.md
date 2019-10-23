@@ -91,3 +91,10 @@ With this setup you can just toggle the `shouldExport` variable between `true` a
 
 ### Do your drawing in `setup()` not `draw()`
 
+Keep in mind that the only difference between `setup()` and `draw()` is the order and frequency with which they run—there’s nothing forbidding you from doing all of your drawing in `setup()`. In fact, when your goal is to generate a single, static graphic the best formula is to have your program consist of:
+
+1. a `preload()` function in which you fetch your data, and
+2. a `setup()` function that fully draws your diagram and ends by calling `save()` to download the result.
+
+The one possible use case for combining `draw()` with SVG output is if you were interested in producing a physical ‘flipbook’ animation. For this it’s quite handy to be able to download a new SVG for each frame and then stitch the different files together in InDesign. If you pursue this, be sure to call the [`noLoop()`](https://p5js.org/reference/#/p5/noLoop) function at some point (possibly upon having reached a predefined [frameCount](`https://p5js.org/reference/#/p5/frameCount`)) so you don’t get caught in an unending series of downloads.
+
