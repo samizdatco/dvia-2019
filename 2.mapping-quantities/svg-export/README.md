@@ -36,16 +36,16 @@ Typically, the first thing you do in your `setup()` function is choose a width a
 If your sketch currently sets the screen size like this:
 
 ```js
-setup(){
-	createCanvas(800, 600)
+function setup(){
+  createCanvas(800, 600)
 }
 ```
 
 All you need to add is the variable name `SVG` at the end:
 
 ```js
-setup(){
-	createCanvas(800, 600, SVG)
+function setup(){
+  createCanvas(800, 600, SVG)
 }
 ```
 
