@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-24T12:49:42.551Z,59.2912,-144.2528,41.1,2.9,ml,,,,1.15,ak,ak20289769,2018-10-24T12:54:21.435Z,"119km E of Middleton Island, Alaska",earthquake,,9.3,,,automatic,ak,ak
+2018-10-24T12:37:53.184Z,60.5814,-146.7415,19.5,2.7,ml,,,,0.58,ak,ak20289765,2018-10-24T12:58:50.919Z,"54km W of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak

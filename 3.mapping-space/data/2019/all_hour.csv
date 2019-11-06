@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-06T18:31:02.560Z,19.1580009,-155.4618378,34.48,1.79,md,38,126,0.002589,0.1,hv,hv71218961,2019-11-06T18:34:14.540Z,"5km SSE of Pahala, Hawaii",earthquake,0.63,0.91,0.15,5,automatic,hv,hv
+2019-11-06T18:24:29.700Z,33.9716667,-117.1845,0.39,1.09,ml,10,70,0.1768,0.27,ci,ci38226938,2019-11-06T18:28:19.673Z,"6km NE of Moreno Valley, CA",earthquake,0.77,31.61,0.305,15,automatic,ci,ci
+2019-11-06T18:20:26.790Z,60.4441,-143.6643,1.3,1.5,ml,,,,0.29,ak,ak019e8zfqdc,2019-11-06T18:25:30.958Z,"80km WNW of Cape Yakataga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-11-06T18:19:12.910Z,36.004,-96.77816667,5.81,1.61,ml,55,78,0.0224955856,0.22,ok,ok2019vtys,2019-11-06T18:33:37.884Z,"2km NNW of Cushing, Oklahoma",earthquake,,0.4,0.22,23,reviewed,ok,ok
+2019-11-06T18:18:36.780Z,35.8738333,-117.6891667,9.5,0.64,ml,9,94,0.08959,0.06,ci,ci38226890,2019-11-06T18:22:14.449Z,"21km ESE of Little Lake, CA",earthquake,0.21,0.46,0.142,9,automatic,ci,ci
+2019-11-06T18:12:24.530Z,19.1896667,-155.4068298,37.51,1.89,md,29,204,0.04839,0.1,hv,hv71218951,2019-11-06T18:15:39.320Z,"7km ESE of Pahala, Hawaii",earthquake,0.86,0.74,0.27,3,automatic,hv,hv
+2019-11-06T18:02:07.830Z,35.6916667,-117.4951667,1.41,0.56,ml,10,139,0.09187,0.15,ci,ci38226826,2019-11-06T18:05:51.443Z,"12km SW of Searles Valley, CA",earthquake,0.44,0.57,0.14,8,automatic,ci,ci
+2019-11-06T17:58:37.980Z,36.6399994,-121.3048325,10.18,1.58,md,7,109,0.03013,0.15,nc,nc73301430,2019-11-06T18:34:02.701Z,"17km S of Tres Pinos, CA",earthquake,0.87,1.82,0.17,7,automatic,nc,nc
+2019-11-06T17:55:08.320Z,33.2783333,-116.756,4.77,0.85,ml,29,53,0.0423,0.16,ci,ci38226698,2019-11-06T18:13:50.220Z,"4km N of Lake Henshaw, CA",earthquake,0.23,0.64,0.142,25,reviewed,ci,ci

@@ -3,6 +3,8 @@
 
 
 ## Exercise #1: [Right Twice a Day](./1.mapping-time)
+## Exercise #2: [A Thousand Suns](./2.mapping-quantities)
+## Exercise #3: [Stones Unturned](./3.mapping-space)
 
 | Afternoon Section | Evening Section |
 | ----------------- | --------------- |

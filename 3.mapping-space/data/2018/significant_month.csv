@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-22T06:22:48.810Z,49.3142,-129.6725,10,6.5,mww,,70,1.658,1.4,us,us1000hfh3,2018-10-23T19:31:53.395Z,"223km SW of Port Hardy, Canada",earthquake,6.7,1.9,0.069,20,reviewed,us,us
+2018-10-22T06:16:28.160Z,49.3468,-129.2135,10,6.8,mww,,62,1.47,1.4,us,us1000hfgv,2018-10-24T05:07:54.311Z,"197km SW of Port Hardy, Canada",earthquake,6.5,1.8,0.044,49,reviewed,us,us
+2018-10-22T05:39:40.330Z,49.2496,-129.4783,10.96,6.6,mww,,70,1.641,1.36,us,us1000hfgn,2018-10-23T18:13:33.890Z,"218km SW of Port Hardy, Canada",earthquake,6.5,3.4,0.05,39,reviewed,us,us
+2018-10-20T13:04:30.150Z,35.3608,-101.7933,5.34,4,mwr,,55,0.484,1.32,us,us1000heyv,2018-10-24T13:14:54.477Z,"15km NNE of Amarillo, Texas",earthquake,4.5,6.1,0.039,64,reviewed,us,us
+2018-10-16T01:03:43.090Z,-21.726,169.4867,10,6.4,mww,,70,2.087,1.19,us,us1000hclz,2018-10-16T03:09:32.261Z,"167km E of Tadine, New Caledonia",earthquake,3,1.8,0.056,31,reviewed,us,us
+2018-10-16T00:28:12.670Z,-21.9359,169.4761,10,6.3,mww,,31,1.997,1.37,us,us1000hcln,2018-10-16T02:33:20.946Z,"170km ESE of Tadine, New Caledonia",earthquake,5.8,1.8,0.071,19,reviewed,us,us
+2018-10-13T11:10:22.400Z,52.8549,153.2429,461,6.7,mww,,17,2.705,0.74,us,us1000hbkz,2018-10-19T11:44:36.284Z,"269km NW of Ozernovskiy, Russia",earthquake,6.5,1.9,0.033,89,reviewed,us,us
+2018-10-10T23:16:02.130Z,49.3481,156.2127,17.45,6.5,mww,,18,3.879,0.91,us,us1000hacw,2018-10-11T02:28:35.040Z,"148km S of Severo-Kuril'sk, Russia",earthquake,7.7,3,0.053,34,reviewed,us,us
+2018-10-10T20:48:20.750Z,-5.7078,151.2197,45.05,7,mww,,18,1.776,1.16,us,us1000haa3,2018-10-17T23:10:54.981Z,"120km E of Kimbe, Papua New Guinea",earthquake,7.1,3.8,0.056,31,reviewed,us,us
+2018-10-10T18:44:55.280Z,-7.453,114.4555,9,6,mww,,27,1.054,1.14,us,us1000ha6q,2018-10-22T17:57:16.043Z,"40km NNE of Cungapmimbo, Indonesia",earthquake,5.8,1.7,0.041,58,reviewed,us,us
+2018-10-07T00:11:51.220Z,20.0343,-73.0128,24,5.9,mww,,19,1.648,0.7,us,us1000h8an,2018-10-20T23:49:40.062Z,"21km WNW of Ti Port-de-Paix, Haiti",earthquake,5,1.4,0.055,32,reviewed,us,us
+2018-09-30T10:52:24.240Z,-18.3465,-178.0788,564.13,6.7,mww,,23,3.728,1.11,us,us1000h4l1,2018-10-12T12:52:21.510Z,"263km NNE of Ndoi Island, Fiji",earthquake,9.6,3.3,0.04,60,reviewed,us,us
+2018-09-28T10:02:43.480Z,-0.1781,119.8401,10,7.5,mww,,27,1.589,1.27,us,us1000h3p4,2018-10-23T18:41:29.835Z,"78km N of Palu, Indonesia",earthquake,5.6,1.8,0.08,15,reviewed,us,us

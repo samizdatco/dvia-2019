@@ -1,0 +1,13 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-24T11:34:37.430Z,-14.5312,167.9944,33.67,4.8,mb,,60,6.952,0.95,us,us1000hgg1,2018-10-24T11:58:34.040Z,"86km SSE of Sola, Vanuatu",earthquake,9.8,5.6,0.05,124,reviewed,us,us
+2018-10-24T11:29:01.380Z,-16.3918,177.9706,10,5.1,mww,,67,1.347,1.22,us,us1000hgg0,2018-10-24T12:04:42.826Z,"145km NNE of Lautoka, Fiji",earthquake,7.5,1.8,0.073,18,reviewed,us,us
+2018-10-24T07:37:59.010Z,-18.0351,-178.1497,526.28,4.6,mb,,43,3.627,0.99,us,us1000hgf0,2018-10-24T08:55:20.040Z,"295km NNE of Ndoi Island, Fiji",earthquake,9.7,7.5,0.081,46,reviewed,us,us
+2018-10-24T06:57:09.060Z,-5.7145,151.3163,41.46,5.1,mb,,51,1.732,1.24,us,us1000hgem,2018-10-24T07:17:59.040Z,"131km E of Kimbe, Papua New Guinea",earthquake,10,6.1,0.047,146,reviewed,us,us
+2018-10-24T06:42:13.445Z,61.0094,-166.867,2.6,4.9,ml,,,,0.59,ak,ak20289691,2018-10-24T09:22:52.102Z,"73km SW of Hooper Bay, Alaska",earthquake,,1.8,,,reviewed,ak,ak
+2018-10-24T00:21:21.140Z,43.6958,-127.7271,10,4.5,mb,,207,2.667,0.67,us,us1000hgcv,2018-10-24T05:52:05.059Z,"276km WNW of Bandon, Oregon",earthquake,8.7,2,0.089,37,reviewed,us,us
+2018-10-23T23:38:58.550Z,13.0482,-89.4918,46.41,4.5,mb,,171,0.683,1.07,us,us1000hgcf,2018-10-24T00:19:02.040Z,"52km SSW of La Libertad, El Salvador",earthquake,6.9,8.1,0.063,74,reviewed,us,us
+2018-10-23T22:26:58.850Z,13.6896,48.1292,10,4.7,mb,,94,10.091,1.04,us,us1000hgb8,2018-10-23T22:51:29.040Z,"60km SE of Rudum, Yemen",earthquake,10.2,1.9,0.077,51,reviewed,us,us
+2018-10-23T20:54:35.000Z,7.2873,-76.9949,30.98,4.8,mb,,83,3.376,1.17,us,us1000hg9i,2018-10-23T22:00:55.040Z,"21km SE of Riosucio, Colombia",earthquake,6.7,5.4,0.044,157,reviewed,us,us
+2018-10-23T17:31:19.660Z,40.958,78.7852,10,4.7,mb,,61,0.406,1.09,us,us1000hg6r,2018-10-23T18:11:52.040Z,"125km W of Aksu, China",earthquake,4.2,1.8,0.084,43,reviewed,us,us
+2018-10-23T17:13:19.590Z,-19.6075,-177.7012,537.72,4.6,mb,,51,5.285,0.8,us,us1000hg6m,2018-10-23T17:31:04.040Z,"155km NE of Ndoi Island, Fiji",earthquake,11.1,8,0.054,101,reviewed,us,us
+2018-10-23T16:04:03.460Z,23.9953,122.667,24.02,5.7,mww,,36,0.565,1.09,us,us1000hg5i,2018-10-24T11:44:50.170Z,"62km SSW of Yonakuni, Japan",earthquake,5.2,3.3,0.05,39,reviewed,us,us

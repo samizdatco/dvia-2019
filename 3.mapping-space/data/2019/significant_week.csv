@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-05T20:52:01.377Z,-57.9632,-9.2681,10,6.3,mww,,89,14.019,1.32,us,us700063mh,2019-11-05T23:01:38.086Z,"East of the South Sandwich Islands",earthquake,11.4,1.9,0.06,27,reviewed,us,us
+2019-11-04T22:43:32.256Z,-18.573,-175.27,10,6.6,mww,,53,5.085,0.88,us,us7000635e,2019-11-05T22:54:46.673Z,"136km W of Neiafu, Tonga",earthquake,8.1,1.8,0.04,61,reviewed,us,us
+2019-11-04T21:53:25.273Z,-31.8124,-71.378,53,6.1,mww,,23,0.687,0.99,us,us70006345,2019-11-06T15:26:06.857Z,"28km SW of Illapel, Chile",earthquake,4.7,1.8,0.057,30,reviewed,us,us
+2019-10-31T01:11:19.120Z,6.9098,125.1559,10,6.5,mww,,19,0.449,0.75,us,us700061e9,2019-11-04T00:44:21.060Z,"0km NW of Bulatukan, Philippines",earthquake,6,1.7,0.048,42,reviewed,us,us

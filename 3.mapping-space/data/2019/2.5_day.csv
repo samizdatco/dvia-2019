@@ -1,0 +1,42 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-06T17:24:17.344Z,57.9559,-156.2882,136.2,3.4,ml,,,,0.79,ak,ak019e8yv4vv,2019-11-06T17:38:01.919Z,"84km SSE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2019-11-06T16:10:55.636Z,-10.7905,166.0552,109.88,5,mww,,65,4.761,1.02,us,us700063yt,2019-11-06T16:28:04.040Z,"25km ESE of Lata, Solomon Islands",earthquake,9.8,6.6,0.08,15,reviewed,us,us
+2019-11-06T14:21:43.210Z,36.2261658,-120.3388367,6.26,2.62,md,34,112,0.2097,0.15,nc,nc73301345,2019-11-06T15:43:53.493Z,"10km N of Coalinga, CA",earthquake,0.33,1.26,0.2,32,automatic,nc,nc
+2019-11-06T14:04:05.587Z,12.2273,-88.0567,41.81,4.5,mb,,164,1.114,0.55,us,us700063xp,2019-11-06T14:26:06.040Z,"87km SW of Jiquilillo, Nicaragua",earthquake,8.1,14.4,0.093,34,reviewed,us,us
+2019-11-06T13:49:32.660Z,19.1871662,-155.4380035,32.37,2.45,ml,33,207,0.06303,0.15,hv,hv71218606,2019-11-06T13:55:15.960Z,"4km ESE of Pahala, Hawaii",earthquake,0.89,0.8,0.36,8,automatic,hv,hv
+2019-11-06T13:33:03.617Z,66.402,-157.5417,16.5,3,ml,,,,0.79,ak,ak019e8wjb3d,2019-11-06T14:22:04.040Z,"63km SSW of Kobuk, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2019-11-06T13:23:17.191Z,36.4474,69.0593,51.34,4.3,mb,,75,1.341,0.95,us,us700063xa,2019-11-06T13:42:11.040Z,"26km S of Khanabad, Afghanistan",earthquake,5.2,16.4,0.238,5,reviewed,us,us
+2019-11-06T13:16:14.829Z,38.3096,141.8649,38.12,4.1,mwr,,154,0.955,0.72,us,us700063x7,2019-11-06T13:39:12.040Z,"50km ESE of Ishinomaki, Japan",earthquake,8,8,0.089,12,reviewed,us,us
+2019-11-06T13:10:15.130Z,19.3274994,-155.0501709,4.23,2.55,ml,33,206,0.0743,0.28,hv,hv71218571,2019-11-06T13:15:58.010Z,"20km SW of Leilani Estates, Hawaii",earthquake,0.92,1.6,0.2,3,automatic,hv,hv
+2019-11-06T12:23:36.416Z,27.1393,54.895,10,4.4,mb,,98,2.482,0.64,us,us700063wv,2019-11-06T12:56:56.040Z,"64km N of Bandar-e Lengeh, Iran",earthquake,8.1,1.9,0.126,18,reviewed,us,us
+2019-11-06T11:49:51.237Z,-20.8504,-178.3899,533.25,4.2,mb,,115,4.563,1.02,us,us700063wp,2019-11-06T12:31:34.040Z,"39km SE of Ndoi Island, Fiji",earthquake,14,7.6,0.049,118,reviewed,us,us
+2019-11-06T07:40:43.270Z,27.259,54.9533,10,5.3,mww,,36,2.564,0.95,us,us700063vr,2019-11-06T17:02:37.040Z,"76km SE of Lar, Iran",earthquake,7.4,1.8,0.071,19,reviewed,us,us
+2019-11-06T07:13:35.320Z,34.2043333,-116.86,3.6,2.54,ml,111,26,0.07666,0.15,ci,ci38935183,2019-11-06T16:39:51.455Z,"6km SE of Big Bear Lake, CA",earthquake,0.09,0.34,0.134,146,reviewed,ci,ci
+2019-11-06T06:20:38.400Z,19.1825,-67.29,10,2.48,md,4,323,1.0272,0.66,pr,pr2019310006,2019-11-06T08:05:36.632Z,"79km NNW of San Antonio, Puerto Rico",earthquake,5.3,31.61,0.23,4,reviewed,pr,pr
+2019-11-06T06:06:11.281Z,47.6963,152.4179,120.93,4.8,mb,,160,6.382,0.83,us,us700063vf,2019-11-06T06:50:06.040Z,"294km ESE of Vostok, Russia",earthquake,12,8.9,0.07,63,reviewed,us,us
+2019-11-06T05:59:50.765Z,16.2108,-97.9736,29.6,5,mb,,169,3.307,0.67,us,us700063v5,2019-11-06T17:45:55.206Z,"9km SSW of Santa Maria Huazolotitlan, Mexico",earthquake,10.1,7.6,0.027,419,reviewed,us,us
+2019-11-06T05:09:50.110Z,18.978,-67.1613,27,2.86,md,11,211,0.513,0.97,pr,pr2019310007,2019-11-06T08:06:18.560Z,"54km NNW of Isabela, Puerto Rico",earthquake,3.66,27.97,0.3,8,reviewed,pr,pr
+2019-11-06T04:19:49.290Z,19.2273,-67.16,39,2.74,md,6,236,0.7614,0.82,pr,pr2019310004,2019-11-06T08:03:45.608Z,"81km N of Isabela, Puerto Rico",earthquake,5.02,24.1,0.14,2,reviewed,pr,pr
+2019-11-06T02:49:12.600Z,18.242,-64.3286,36,3.15,md,5,353,1.5235,0.51,pr,pr2019310003,2019-11-06T03:55:39.638Z,"36km ESE of Road Town, British Virgin Islands",earthquake,15.4,31.08,0.43,3,reviewed,pr,pr
+2019-11-06T02:43:52.490Z,18.6361,-64.9961,55,2.67,md,3,342,0.9855,0.09,pr,pr2019310002,2019-11-06T03:55:02.974Z,"33km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.63,8.28,0.47,2,reviewed,pr,pr
+2019-11-06T02:22:23.872Z,25.1063,122.9228,170.75,4.2,mb,,119,0.641,0.74,us,us700063tk,2019-11-06T03:11:17.040Z,"71km N of Yonakuni, Japan",earthquake,8.3,5.8,0.096,30,reviewed,us,us
+2019-11-06T02:12:42.466Z,16.2973,-97.9346,28.19,4.5,mb,,200,1.396,0.85,us,us700063td,2019-11-06T03:15:35.103Z,"1km N of Santa Maria Huazolotitlan, Mexico",earthquake,10.3,8.7,0.033,273,reviewed,us,us
+2019-11-06T02:03:23.170Z,18.1685,-64.5501,94,3.39,md,13,193,1.299,0.88,pr,pr2019310001,2019-11-06T07:20:43.059Z,"28km SSE of Road Town, British Virgin Islands",earthquake,11.81,7.06,0.41,8,reviewed,pr,pr
+2019-11-06T01:54:43.395Z,63.5621,-152.6812,1.3,2.7,ml,,,,0.69,ak,ak019e8pioy6,2019-11-06T02:59:01.040Z,"161km ENE of McGrath, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-11-06T01:54:39.050Z,18.8746,-65.0468,29,3.16,md,7,340,1.0862,0.43,pr,pr2019310000,2019-11-06T03:53:55.406Z,"60km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.39,28.48,0.16,6,reviewed,pr,pr
+2019-11-06T01:27:22.774Z,55.9499,-152.2012,10,3.4,ml,,258,1.264,0.29,us,us700063t3,2019-11-06T02:54:40.040Z,"203km S of Kodiak Station, Alaska",earthquake,10,2,0.055,44,reviewed,us,us
+2019-11-06T00:42:46.031Z,66.4019,-157.2387,2.5,3,ml,,,,0.67,ak,ak019e8ouopi,2019-11-06T02:47:39.040Z,"58km SSW of Kobuk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-11-06T00:39:09.364Z,-13.7315,167.8097,10,5.8,mww,,52,1.803,1.09,us,us700063sp,2019-11-06T16:02:18.040Z,"32km ENE of Sola, Vanuatu",earthquake,9.1,1.8,0.069,20,reviewed,us,us
+2019-11-05T23:34:16.103Z,-13.7871,167.6919,10,5.1,mb,,81,1.716,0.89,us,us700063s8,2019-11-05T23:50:44.040Z,"18km NE of Sola, Vanuatu",earthquake,8.2,1.9,0.08,51,reviewed,us,us
+2019-11-05T23:17:25.047Z,-13.8072,167.7259,10,5.9,mww,,80,1.707,1.05,us,us700063rx,2019-11-06T01:19:44.390Z,"20km ENE of Sola, Vanuatu",earthquake,9.3,1.9,0.08,15,reviewed,us,us
+2019-11-05T23:01:08.356Z,60.2483,-153.1728,135.6,3.3,ml,,,,0.55,ak,ak019e7erfui,2019-11-06T00:06:25.040Z,"35km SW of Redoubt Volcano, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2019-11-05T22:23:16.690Z,19.2126667,-155.4495,34.03,2.98,ml,56,116,0.055,0.09,hv,hv71217736,2019-11-06T03:03:28.740Z,"4km ENE of Pahala, Hawaii",earthquake,0.44,0.55,0.129,45,reviewed,hv,hv
+2019-11-05T22:18:07.750Z,19.4619999,-155.5868378,-2.36,2.45,ml,9,95,0.007096,0.3,hv,hv71217721,2019-11-05T22:23:47.960Z,"29km E of Honaunau-Napoopoo, Hawaii",earthquake,0.65,0.32,0.67,4,automatic,hv,hv
+2019-11-05T21:14:11.055Z,31.0696,-103.2524,5,2.5,ml,,53,0.055,0.75,us,us700063my,2019-11-05T23:19:23.040Z,"40km WNW of Fort Stockton, Texas",earthquake,0.9,1.4,0.074,58,reviewed,us,us
+2019-11-05T21:01:23.577Z,-21.1895,-68.7274,122.59,4.3,mb,,55,0.724,0.66,us,us700063mn,2019-11-05T22:09:19.040Z,"143km N of Calama, Chile",earthquake,5.5,6.9,0.177,9,reviewed,us,us
+2019-11-05T20:52:22.717Z,36.5375,70.0911,211.41,5.1,mww,,26,1.599,0.92,us,us700063mc,2019-11-05T22:40:43.040Z,"21km E of Farkhar, Afghanistan",earthquake,5.3,4.8,0.078,16,reviewed,us,us
+2019-11-05T20:52:01.377Z,-57.9632,-9.2681,10,6.3,mww,,89,14.019,1.32,us,us700063mh,2019-11-05T23:01:38.086Z,"East of the South Sandwich Islands",earthquake,11.4,1.9,0.06,27,reviewed,us,us
+2019-11-05T20:02:50.020Z,18.7723,-67.387,6,2.77,md,10,276,0.3986,0.19,pr,pr2019309015,2019-11-05T20:42:52.806Z,"43km NW of San Antonio, Puerto Rico",earthquake,1.51,1.58,0.22,9,reviewed,pr,pr
+2019-11-05T19:52:01.370Z,35.6091667,-117.5475,9.41,2.84,ml,36,52,0.02179,0.15,ci,ci38934103,2019-11-06T14:27:51.444Z,"12km E of Ridgecrest, CA",earthquake,0.2,0.39,0.116,25,automatic,ci,ci
+2019-11-05T19:29:50.608Z,68.7373,-146.715,13.1,2.8,ml,,61,0.6,1.24,us,us700063k1,2019-11-05T21:25:01.040Z,"83km NW of Arctic Village, Alaska",earthquake,2.7,5.4,0.036,102,reviewed,us,us
+2019-11-05T19:18:58.660Z,-9.5534,121.1628,74.03,4,mb,,72,1.399,1.48,us,us700063jy,2019-11-05T19:33:15.040Z,"67km SSE of Ngedhusuba, Indonesia",earthquake,7.9,12.7,0.196,8,reviewed,us,us

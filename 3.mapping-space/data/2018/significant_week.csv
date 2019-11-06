@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-22T06:22:48.810Z,49.3142,-129.6725,10,6.5,mww,,70,1.658,1.4,us,us1000hfh3,2018-10-23T19:31:53.395Z,"223km SW of Port Hardy, Canada",earthquake,6.7,1.9,0.069,20,reviewed,us,us
+2018-10-22T06:16:28.160Z,49.3468,-129.2135,10,6.8,mww,,62,1.47,1.4,us,us1000hfgv,2018-10-24T05:07:54.311Z,"197km SW of Port Hardy, Canada",earthquake,6.5,1.8,0.044,49,reviewed,us,us
+2018-10-22T05:39:40.330Z,49.2496,-129.4783,10.96,6.6,mww,,70,1.641,1.36,us,us1000hfgn,2018-10-23T18:13:33.890Z,"218km SW of Port Hardy, Canada",earthquake,6.5,3.4,0.05,39,reviewed,us,us
+2018-10-20T13:04:30.150Z,35.3608,-101.7933,5.34,4,mwr,,55,0.484,1.32,us,us1000heyv,2018-10-24T13:14:54.477Z,"15km NNE of Amarillo, Texas",earthquake,4.5,6.1,0.039,64,reviewed,us,us

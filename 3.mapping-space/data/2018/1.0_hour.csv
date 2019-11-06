@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-24T13:10:43.479Z,57.729,-154.1587,49.2,1.9,ml,,,,0.68,ak,ak20289773,2018-10-24T13:21:36.838Z,"23km NNW of Larsen Bay, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2018-10-24T12:57:25.980Z,38.8185005,-122.788002,1.24,1.06,md,9,89,0.00775,0.03,nc,nc73101576,2018-10-24T12:59:03.829Z,"5km NNW of The Geysers, CA",earthquake,0.39,0.36,0.13,3,automatic,nc,nc
+2018-10-24T12:51:30.750Z,38.8306656,-122.7975006,1.86,2.37,md,38,42,0.009541,0.04,nc,nc73101566,2018-10-24T13:11:03.959Z,"6km W of Cobb, CA",earthquake,0.16,0.25,0.17,16,automatic,nc,nc
+2018-10-24T12:49:42.551Z,59.2912,-144.2528,41.1,2.9,ml,,,,1.15,ak,ak20289769,2018-10-24T12:54:21.435Z,"119km E of Middleton Island, Alaska",earthquake,,9.3,,,automatic,ak,ak
+2018-10-24T12:47:07.250Z,38.7458344,-122.7183304,1.19,1.65,md,10,115,0.02161,0.02,nc,nc73101561,2018-10-24T13:11:03.108Z,"4km SW of Anderson Springs, CA",earthquake,0.43,0.66,0.21,5,automatic,nc,nc
+2018-10-24T12:44:24.050Z,36.4648323,-121.0403366,4.98,1.56,md,9,156,0.04356,0.04,nc,nc73101556,2018-10-24T12:59:04.039Z,"12km SE of Pinnacles, CA",earthquake,0.45,1.09,0.24,8,automatic,nc,nc
+2018-10-24T12:42:14.940Z,33.4873352,-116.7943344,4.32,1.48,ml,60,23,0.02547,0.19,ci,ci37402882,2018-10-24T12:53:01.500Z,"8km NE of Aguanga, CA",earthquake,0.21,0.5,0.198,24,automatic,ci,ci
+2018-10-24T12:37:53.184Z,60.5814,-146.7415,19.5,2.7,ml,,,,0.58,ak,ak20289765,2018-10-24T12:58:50.919Z,"54km W of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-10-24T12:34:09.720Z,33.083,-116.4791667,5.92,1.89,ml,66,21,0.09941,0.17,ci,ci37402866,2018-10-24T13:23:26.020Z,"12km E of Julian, CA",earthquake,0.2,0.84,0.173,26,reviewed,ci,ci
