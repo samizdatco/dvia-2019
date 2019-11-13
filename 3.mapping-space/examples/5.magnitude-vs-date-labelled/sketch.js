@@ -1,6 +1,6 @@
 // position for the plot
-var plotX1, plotY1; // top left corner
-var plotX2, plotY2; // bottom right corner
+var x_left, y_top; // top left corner
+var x_right, y_bot; // bottom right corner
 
 // minimum and maximum values for data and time
 var magnitudeMin, magnitudeMax;
@@ -9,15 +9,9 @@ var timeMin, timeMax;
 // table as the data set
 var table;
 
-// an array for the time
-var times;
-// an array for the magnitude
-var magnitudes;
 
-//How much is one day in milliseconds?
-// we will need this for calculations later
-// 1000 milliseconds * 60 seconds * 60 minutes * 24 hours
-var tsDay = 1000 * 60 * 60 * 24;
+var times; // an array for the time
+var magnitudes; // an array for the magnitude
 
 var magnitudeInterval = 1.0;
 
@@ -32,37 +26,37 @@ function setup() {
   background(230);
 
   // define top left and bottom right corner of our plot
-  plotX1 = 110;
-  plotX2 = width - 80;
-  plotY1 = 60;
-  plotY2 = height- 80;
+  x_left = 110;
+  x_right = width - 80;
+  y_top = 60;
+  y_bot = height- 80;
 
 
   // draw a background rectangle for the plot
   fill(255);
   noStroke();
   rectMode(CORNERS);
-  rect(plotX1, plotY1, plotX2, plotY2);
+  rect(x_left, y_top, x_right, y_bot);
 
   // get the two arrays of interest: time and magnitude
-  times = table.getColumn("timestamp");
-  magnitudes = table.getColumn("mag");
+  times = columnValues(table, "timestamp")
+  magnitudes = columnValues(table, "mag");
 
-  // get minimum and maximum values for both
+  // get minimum and maximum values for magnitude (rounding up the max value to leave a visual margin at the top)
   magnitudeMin = 0.0;
-  // rounding up the max value to leave a visual margin at the top
-  magnitudeMax = ceil(getColumnMax("mag")/magnitudeInterval) * magnitudeInterval;
+  magnitudeMax = ceil(columnMax(table, "mag")/magnitudeInterval) * magnitudeInterval;
 
-  // the minimum for time should be the first date - one day
-  timeMin = times[0]-tsDay;
+  // the time range should start at 00:00:00 on the first day and end at 23:59:59 on the last day
+  timeMin = columnMin(table, 'timestamp')
+  timeMin = moment(timeMin).startOf('day')
 
-  // the maximum for time should be the last date + one day
-  timeMax = float(times[times.length-1]) + tsDay;
+  timeMax = columnMax(table, 'timestamp')
+  timeMax = moment(timeMax).endOf('day')
 
   //draw the title for the current plot
   fill(0);
   textSize(16);
-  text("Significant Earthquakes - Past 30 days", plotX1, plotY1-16);
+  text("Significant Earthquakes - Past 30 days", x_left, y_top-16);
 
   // draw the lables for magnitude on the left
   drawMagnitudeLabels();
@@ -78,97 +72,98 @@ function setup() {
 }
 
 
-// draw the two data points
+// plot the two data points per row as an x/y coordinate
 function drawDataPoints(){
   strokeWeight(5);
   stroke(255,0,0);
   // cycle through array
   for(var i=0; i<times.length; i++){
     //map the x position to the time
-    var x = map(times[i],timeMin, timeMax, plotX1, plotX2);
+    var dayTime = moment(times[i])
+    var x = map(dayTime,timeMin, timeMax, x_left, x_right);
+
     // map the y position to magnitude
-    var y = map(magnitudes[i],magnitudeMin, magnitudeMax, plotY2, plotY1);
+    var y = map(magnitudes[i],magnitudeMin, magnitudeMax, y_bot, y_top);
     point(x,y);
   }
 }
 
-// draw labels "Magnitude" and "Year" next to each of the axes
+// draw labels "Magnitude" and "Date" next to each of the axes
 function drawAxisLabels(){
   fill(0);
   textSize(13);
   textAlign(CENTER, CENTER);
-  text("Magnitude", 50, (plotY1+plotY2)/2);
+  text("Magnitude", 50, (y_top+y_bot)/2);
   textAlign(CENTER);
-  text("Year", (plotX1+plotX2)/2, plotY2+40);
+  text("Date", (x_left+x_right)/2, y_bot+40);
 
 }
 
 // draw labels for magnitude on the left
 function drawMagnitudeLabels(){
   fill(128);
-  // we increase i by the interval, which are the sections
-  for (var i=0; i<=magnitudeMax; i+=magnitudeInterval){
+  // we increase i by the interval, breaking the values into sections
+  for (var i=magnitudeMin; i<=magnitudeMax; i+=magnitudeInterval){
     noStroke();
     textSize(8);
     textAlign(RIGHT, CENTER);
     // map y to the plotting surface
-    var y = map(i, magnitudeMin, magnitudeMax, plotY2, plotY1);
+    var y = map(i, magnitudeMin, magnitudeMax, y_bot, y_top);
 
     // write value
-    text(floor(i), plotX1-10, y);
+    text(floor(i), x_left-10, y);
 
     // add visual tick mark
     stroke(128);
     strokeWeight(1);
-    line(plotX1-4, y, plotX1-1, y);
+    line(x_left-4, y, x_left-1, y);
   }
 }
 
-// draw date labels
-// we need to find full days, independent of the actual earthquake events
+// draw date labels over the entire range of time
 function drawDateLabels(){
-    textSize(8);
-    textAlign(CENTER);
-    // what is the first day in our plot?
-    var firstDay = Math.floor(timeMin);
+  textSize(8);
+  textAlign(CENTER);
 
-    // how many days are we plotting total?
-    var totalDays = Math.floor((timeMax - timeMin))/1000/60/60/24;
+  // what are the beginning and ending dates for our data
+  var firstDay = moment(timeMin)
+  var lastDay = moment(timeMax)
 
-  for(var i=0; i<totalDays; i++){
-    var dayCount = firstDay+(i*tsDay);
+  // how many days are we plotting total?
+  var totalDays = lastDay.diff(firstDay, 'days') + 1
+
+  for (var i=0; i<=totalDays; i++){
     // find the x position for each day
-    var x = map(dayCount,timeMin, timeMax, plotX1, plotX2);
+    var today = moment(firstDay).add(i, 'days')
+    var x = map(today, timeMin, timeMax, x_left, x_right);
 
     // draw a line for each day
     strokeWeight(1);
     stroke(240);
-    line(x, plotY1,x,plotY2);
+    line(x, y_top,x,y_bot);
 
-    // write the label in clear text
-    // convert the label into a date object again
-    var d = new Date(firstDay+dayCount);
-
-    // and write it out in clear text
-    var dateNow =  (d.getUTCMonth()+1) + "/" + d.getUTCDate();
+    // convert the timestamp to a text string and print the label on the canvas
+    var dateText = today.format('M/D')
     noStroke();
-    text(dateNow, x,plotY2+15);
+    text(dateText, x,y_bot+15);
   }
+}
+
+// get the values of a given column as an array of numbers
+function columnValues(tableObject, columnName){
+  // get the array of strings in the specified column
+  var colStrings = tableObject.getColumn(columnName)
+  // convert to a list of numbers by running each element through the `float` function
+  return _.map(colStrings, _.toNumber)
 }
 
 // get the maximum value within a column
-function getColumnMax(columnName){
-  var col = table.getColumn(columnName);
-  // m is the maximum value
-  // purposefully start this very low
-  var m = 0.0;
-  for(var i =0; i< col.length; i++){
-    // each value within the column
-    // that is higher than m replaces the previous value
-    if(float(col[i])>m){
-      m = float(col[i]);
-    }
-  }
-  // after going through all rows, return the max value
-  return m;
+function columnMax(tableObject, columnName){
+    return _.max(columnValues(tableObject, columnName))
 }
+
+// get the minimum value within a column
+function columnMin(tableObject, columnName){
+    return _.min(columnValues(tableObject, columnName))
+}
+
