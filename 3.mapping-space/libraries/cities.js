@@ -94,9 +94,10 @@
     return r2d(brng) // degrees
   }
 
-  function closestCities(lat, lng, predicate, cutoff){
+  function closestCities(lat, lng, predicate, maxDistance){
     predicate = predicate || _.identity
-    cutoff = cutoff || _.identity
+    cutoff = _.isNumber(maxDistance) ? city=>city.distance<=maxDistance : _.identity
+
     let hits = _.map(_.filter(db, predicate), city=>(_.extend({
       distance:measureDistance(lat,lng, city.latitude,city.longitude),
       direction:measureDirection(lat,lng, city.latitude,city.longitude)
@@ -105,21 +106,15 @@
   }
 
   var Cities = {
-    closestTo:(lat, lng, maxDist) => closestCities(lat, lng, undefined, _.isNumber(maxDist) ? city=>city.distance<=maxDist : undefined),
+    closestTo:(lat, lng, maxDist) => closestCities(lat, lng, undefined, maxDist),
     largerThan(pop){
       return {
-        closestTo: (lat, lng, maxDist) => closestCities(lat, lng, 
-          city=>city.population>pop,
-          _.isNumber(maxDist) ? city=>city.distance<=maxDist : undefined
-        )
+        closestTo: (lat, lng, maxDist) => closestCities(lat, lng, city=>city.population>pop, maxDist)
       }
     },
     smallerThan(pop){
       return {
-        closestTo: (lat, lng, maxDist) => closestCities(lat, lng, 
-          city=>city.population<pop,
-          _.isNumber(maxDist) ? city=>city.distance<=maxDist : undefined
-        )
+        closestTo: (lat, lng, maxDist) => closestCities(lat, lng, city=>city.population<pop, maxDist)
       }
     }
 
