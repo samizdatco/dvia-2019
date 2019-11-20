@@ -1,6 +1,6 @@
 // position for the plot
-var plotX1, plotY1; // top left corner
-var plotX2, plotY2; // bottom right corner
+var x_left, y_top; // top left corner
+var x_right, y_bot; // bottom right corner
 
 // minimum and maximum values for data and time
 var magnitudeMin, magnitudeMax;
@@ -17,16 +17,16 @@ function setup() {
   background(200);
 
   // define top left and bottom right corner of our plot
-  plotX1 = 50;
-  plotX2 = width - plotX1;
-  plotY1 = 50;
-  plotY2 = height- plotY1;
+  x_left = 50;
+  x_right = width - x_left;
+  y_top = 50;
+  y_bot = height- y_top;
 
   // draw a background rectangle for the plot
   fill(255);
   noStroke();
   rectMode(CORNERS);
-  rect(plotX1, plotY1, plotX2, plotY2);
+  rect(x_left, y_top, x_right, y_bot);
 
   strokeWeight(5);
   stroke(255,0,0);
@@ -47,9 +47,9 @@ function drawDataPoints(){
   // cycle through array
   for(var i=0; i<times.length; i++){
     //map the x position to the time
-    var x = map(times[i],timeMin, timeMax, plotX1, plotX2);
+    var x = map(times[i],timeMin, timeMax, x_left, x_right);
     // map the y position to magnitude
-    var y = map(magnitudes[i],magnitudeMin, magnitudeMax, plotY2, plotY1);
+    var y = map(magnitudes[i],magnitudeMin, magnitudeMax, y_bot, y_top);
     point(x,y);
   }
 }
