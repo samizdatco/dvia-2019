@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2019-11-05T20:52:01.377Z,-57.9632,-9.2681,10,6.3,mww,,89,14.019,1.32,us,us700063mh,2019-11-05T23:01:38.086Z,"East of the South Sandwich Islands",earthquake,11.4,1.9,0.06,27,reviewed,us,us
-2019-11-04T22:43:32.256Z,-18.573,-175.27,10,6.6,mww,,53,5.085,0.88,us,us7000635e,2019-11-05T22:54:46.673Z,"136km W of Neiafu, Tonga",earthquake,8.1,1.8,0.04,61,reviewed,us,us
-2019-11-04T21:53:25.273Z,-31.8124,-71.378,53,6.1,mww,,23,0.687,0.99,us,us70006345,2019-11-06T15:26:06.857Z,"28km SW of Illapel, Chile",earthquake,4.7,1.8,0.057,30,reviewed,us,us
-2019-10-31T01:11:19.120Z,6.9098,125.1559,10,6.5,mww,,19,0.449,0.75,us,us700061e9,2019-11-04T00:44:21.060Z,"0km NW of Bulatukan, Philippines",earthquake,6,1.7,0.048,42,reviewed,us,us
+2019-11-20T23:50:44.205Z,19.4512,101.3449,10,6.1,mww,,33,2.356,0.77,us,us70006ara,2019-11-21T17:49:21.775Z,"31km ESE of Chaloem Phra Kiat, Thailand",earthquake,6.8,1.8,0.089,12,reviewed,us,us
+2019-11-20T08:26:07.542Z,53.1633,153.6852,486.81,6.3,mww,,38,2.418,0.99,us,us70006a9e,2019-11-21T08:29:00.055Z,"267km NW of Ozernovskiy, Russia",earthquake,9.7,10.7,0.071,19,reviewed,us,us
+2019-11-20T04:27:05.921Z,13.9824,-93.1298,10.97,6.3,mww,,67,1.492,1.19,us,us70006a6q,2019-11-21T15:16:26.841Z,"111km SW of Puerto Madero, Mexico",earthquake,6.7,2.5,0.059,28,reviewed,us,us
+2019-11-18T13:22:09.943Z,7.6247,124.9124,13.11,5.9,mww,,41,0.861,0.74,us,us700069f4,2019-11-19T21:22:37.040Z,"2km N of Kadingilan, Philippines",earthquake,6.5,3.8,0.078,16,reviewed,us,us

@@ -13,6 +13,8 @@
 cd "$( dirname "${BASH_SOURCE[0]}" )"
 mv *.csv $HOME/.Trash
 
+# -- CSV Feeds -------------------------------------------------------------------------------------------------
+
 # Past Hour
 curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.csv # 'significant' quakes
 curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.csv # magnitude ≥ 4.5
@@ -40,3 +42,34 @@ curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.csv
 curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.csv
 curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.csv
 curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv
+
+
+# -- GeoJSON Feeds ---------------------------------------------------------------------------------------------
+
+# Past Hour
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.geojson # 'significant' quakes
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.geojson # magnitude ≥ 4.5
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson # magnitude ≥ 2.5
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.geojson # magnitude ≥ 1.0
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson # 'all' quakes (even tiny ones)
+
+# Past Day
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_day.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
+
+# Past 7 Days
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
+# Past 30 Days
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson
+curl -O https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson

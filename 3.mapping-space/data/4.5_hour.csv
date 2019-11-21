@@ -1,1 +1,2 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-21T17:36:55.871Z,-5.2888,103.5596,65.26,4.8,mb,,87,2.629,0.82,us,us70006b5m,2019-11-21T18:00:44.040Z,"36km SW of Kuripan, Indonesia",earthquake,10.7,9.2,0.09,38,reviewed,us,us

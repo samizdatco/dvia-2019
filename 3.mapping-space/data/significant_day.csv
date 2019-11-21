@@ -1,2 +1,2 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2019-11-05T20:52:01.377Z,-57.9632,-9.2681,10,6.3,mww,,89,14.019,1.32,us,us700063mh,2019-11-05T23:01:38.086Z,"East of the South Sandwich Islands",earthquake,11.4,1.9,0.06,27,reviewed,us,us
+2019-11-20T23:50:44.205Z,19.4512,101.3449,10,6.1,mww,,33,2.356,0.77,us,us70006ara,2019-11-21T17:49:21.775Z,"31km ESE of Chaloem Phra Kiat, Thailand",earthquake,6.8,1.8,0.089,12,reviewed,us,us
