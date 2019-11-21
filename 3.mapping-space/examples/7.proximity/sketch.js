@@ -29,7 +29,12 @@ function setup() {
     text(`closest to: ${closest[0].name}, ${closest[0].country}`, x, y)
 
     x+= 200
-    text(`population ${closest[0].population/1000000} million`, x, y)
+    var pop = closest[0].population
+    if (pop>=1000000){
+      text(`population ${(pop/1000000).toFixed(1)} million`, x, y)
+    }else{
+      text(`population ${numberWithCommas(pop)}`, x, y)
+    }
 
     x+= 200
     text(`distance ${floor(closest[0].distance)} km`, x, y)
@@ -37,4 +42,8 @@ function setup() {
     x+= 200
     text(`compass direction: ${floor(closest[0].direction)}°`, x, y)
   }
+}
+
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
