@@ -14,7 +14,7 @@ config:
 
 # run `make update` to pull down changes whenever there's new material on the course repo
 update:
-	git pull upstream master
+	git pull upstream master --no-edit
 
 # you can view your work via a local webserver with `make server`
 server: $(HTTPD)
