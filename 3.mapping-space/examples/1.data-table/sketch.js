@@ -14,7 +14,7 @@ function setup() {
   textSize(10);
 
   // sort the rows of the table from largest to smallest magnitude
-  table = sortedTable(table, '-mag')
+  table = sortTable(table, '-mag')
 
   // print the column heading row
   textStyle(BOLD);
@@ -33,7 +33,7 @@ function setup() {
 }
 
 
-function sortedTable(origTable, columnName){
+function sortTable(origTable, columnName){
   // Returns a copy of a Table object whose rows are ordered according to values in the specified column
   // 
   // By default the rows in the table will be sorted in ascending order. If you pass a 
