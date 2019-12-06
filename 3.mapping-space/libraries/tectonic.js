@@ -232,16 +232,16 @@
   }
 
   function mirrored(features){
-    var shiftLeft = points => _.map(points, ([lng, lat]) => [lng-360, lat])
-    var shiftRight = points => _.map(points, ([lng, lat]) => [lng+360, lat])
+    var shiftWest = points => _.map(points, ([lng, lat]) => [lng-360, lat])
+    var shiftEast = points => _.map(points, ([lng, lat]) => [lng+360, lat])
 
     var mirror = {
-      Point:           coords => [coords, shiftLeft([coords])[0], shiftRight([coords])[0]],
-      LineString:      coords => [coords, shiftLeft(coords), shiftRight(coords)],
-      Polygon:         coords => [coords, _.map(coords, shiftLeft), _.map(coords, shiftRight)],
-      MultiPoint:      coords => coords.concat(shiftLeft(coords), shiftRight(coords)),
-      MultiLineString: coords => coords.concat(_.map(coords, shiftLeft), _.map(coords, shiftRight)),
-      MultiPolygon:    coords => _.map(coords, poly => poly.concat(_.map(poly, shiftLeft), _.map(poly, shiftRight))),
+      Point:           coords => [coords, shiftWest([coords])[0], shiftEast([coords])[0]],
+      LineString:      coords => [coords, shiftWest(coords), shiftEast(coords)],
+      Polygon:         coords => [coords, _.map(coords, shiftWest), _.map(coords, shiftEast)],
+      MultiPoint:      coords => coords.concat(shiftWest(coords), shiftEast(coords)),
+      MultiLineString: coords => coords.concat(_.map(coords, shiftWest), _.map(coords, shiftEast)),
+      MultiPolygon:    coords => _.map(coords, poly => poly.concat(_.map(poly, shiftWest), _.map(poly, shiftEast))),
     }
 
     return _.map(features, ({type, properties, geometry}) => ({
