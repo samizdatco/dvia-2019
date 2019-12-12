@@ -3,8 +3,9 @@ var quakes
 var allDots
 
 // these are the options we'll pass to .setStyle based on whether a given dot should be highlighted
-var ACTIVE = {fillColor:'OrangeRed', weight:2, radius:6}
-var DEFAULT = {fillColor:'Goldenrod', weight:0, radius:3}
+var DEFAULT = {fillColor:'Tomato', weight:0, radius:4}
+var ACTIVE = {fillColor:'OrangeRed', weight:3, radius:8}
+var PASSIVE = {fillColor:'Coral', weight:0, radius:2}
 
 function preload() {
   quakes = loadTable("data/all_month.csv", 'csv', 'header')
@@ -20,36 +21,39 @@ function setup() {
         accessToken: 'pk.eyJ1IjoiZHZpYTIwMTciLCJhIjoiY2o5NmsxNXIxMDU3eTMxbnN4bW03M3RsZyJ9.VN5cq0zpf-oep1n1OjRSEA'
     }).addTo(globe);
 
-
     // add markers for a couple cities and have each of them call filterByCity when clicked
-    var laMarker =L.marker([34.05223, -118.24368])
-                   .bindTooltip('Los Angeles')
-                   .on('click', filterByCity)
-                   .addTo(globe)
+    L.marker([34.05223, -118.24368])
+     .bindTooltip('Los Angeles')
+     .on('click', filterByCity)
+     .addTo(globe)
 
-    var sfMarker = L.marker([37.77493, -122.41942])
-                    .bindTooltip('San Francisco')
-                    .on('click', filterByCity)
-                    .addTo(globe)
+    L.marker([37.77493, -122.41942])
+     .bindTooltip('San Francisco')
+     .on('click', filterByCity)
+     .addTo(globe)
 
-    // have clicks on the map itself (i.e. anywhere that's not a marker)
+    // have clicks on the map itself (i.e. anywhere that's not a marker) reset the current filter
     globe.on('click', clearFilter)
 
+    // create an empty list where we can hold onto references to all the earthquake markers we're about to create
+    allDots = []
 
-    allDots = [] // create an empty list where we can hold onto references to all the earthquake markers we're about to create
+    // add a marker to the map for each earthquake in the feed
     for (var r=0; r<quakes.rows.length; r++){
       var row = quakes.getRow(r)
 
-      // skip rows with missing data (otherwise you'll get a NaN error if the magnitude column is blank)
-      if (row.getString('mag')=='') continue
+      // skip rows with missing data (otherwise you'll get a NaN error if the magnitude or depth column is blank)
+      if (row.getString('mag')=='' || row.getString('depth')=='') continue
 
       var quakeLat = row.getNum('latitude')
       var quakeLng = row.getNum('longitude')
       var quakeMag = row.getNum('mag').toFixed(1)
-      var quakeDepth = row.getNum('mag').toFixed(2)
+      var quakeDepth = row.getNum('depth').toFixed(2)
+      var popupHTML = `<h3>${row.getString('place')}</h3><b>Magnitude</b> ${quakeMag}<br><b>Depth</b> ${quakeDepth} km`
+
       var dot = L.circleMarker([quakeLat, quakeLng], {fillOpacity:1, color:'white'})
                  .setStyle(DEFAULT)
-                 .bindPopup(`<h3>${row.getString('place')}</h3><b>Magnitude</b> ${quakeMag}<br><b>Depth</b> ${quakeDepth}`)
+                 .bindPopup(popupHTML)
                  .addTo(globe)
 
       // keep a reference to this marker around so we can show/hide it later on
@@ -79,7 +83,7 @@ function filterByCity(e){
     if (distance<=cutoff){
       quakeDot.setStyle(ACTIVE)
     }else{
-      quakeDot.setStyle(DEFAULT)
+      quakeDot.setStyle(PASSIVE)
     }
   }
 }
